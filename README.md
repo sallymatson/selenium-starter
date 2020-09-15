@@ -1,3 +1,5 @@
+## About
+
 Selenium enables opening a web browser instance and automating actions to be performed in that browser (ex. clicking buttons on a page in order to see info/go to the next page, inputting data and submitting forms, etc.) Among many other use cases, selenium is helpful for scraping "hard to scrape" websites where you can't simply navigate to the information you're looking for through get requests (URL manipulation) or API endpoints. **PLEASE ALWAYS READ THE TERMS & CONDITIONS OF A WEBSITE TO MAKE SURE THAT ANY ACTIONS YOU'RE PERFORMING CONFORM TO THE GUIDELINES!!!!!**
 
 ## Getting Started
